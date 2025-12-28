@@ -1,0 +1,3 @@
+/home/jetson/vision/AirHUST_Vision_Tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/jetson/vision/AirHUST_Vision_Tutorial/build/CMakeFiles/edit_cache.dir
+/home/jetson/vision/AirHUST_Vision_Tutorial/build/CMakeFiles/lab1_2.dir

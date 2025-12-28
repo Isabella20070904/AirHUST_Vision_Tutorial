@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(lab2_2)
+project(lab1_2)
 
 find_package(OpenCV REQUIRED) 
 
@@ -8,4 +8,3 @@ aux_source_directory(src sc_executable_source)
 add_executable(${sc_executable_name} ${sc_executable_source})
 target_include_directories(${sc_executable_name} BEFORE PUBLIC include)
 target_link_libraries(${sc_executable_name}  ${OpenCV_LIBS})
-
